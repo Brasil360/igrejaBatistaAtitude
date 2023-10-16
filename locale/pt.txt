@@ -10,8 +10,8 @@ LinkBehaviour_37C0C823_397E_0B5C_4190_A119875DDC6A.source = https://maps.app.goo
 LinkBehaviour_2904915C_3966_1DE1_41AD_256948E5E9F1.source = https://wa.me/219964564689
 LinkBehaviour_29768CF0_397A_04BC_41BD_C321AED56098.source = https://wa.me/219964564689
 LinkBehaviour_295C35F3_397A_04BC_41C0_6AD1ACC0E946.source = https://www.facebook.com/ibacaxias?mibextid=LQQJ4d
-LinkBehaviour_3628CDFF_3966_04A4_419E_973955DEC4FC.source = https://www.instagram.com/atitudecaxias/
 LinkBehaviour_294D700C_397E_FB64_41BF_62F26C94B8D4.source = https://www.instagram.com/atitudecaxias/
+LinkBehaviour_3628CDFF_3966_04A4_419E_973955DEC4FC.source = https://www.instagram.com/atitudecaxias/
 
 ## Media
 
